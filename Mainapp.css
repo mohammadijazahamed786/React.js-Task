@@ -1,0 +1,39 @@
+/* Styles for SearchBar Component */
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  /* Styles for CurrentWeather and Forecast Components */
+  div {
+    margin-bottom: 10px;
+  }
+  
+  img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  /* Styles for UnitToggle Component */
+  label {
+    margin-right: 10px;
+  }
+  
+  
